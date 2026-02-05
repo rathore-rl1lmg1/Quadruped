@@ -14,7 +14,7 @@ Key topics studied and applied include:
 - **Coordinate Frames & Transformations:** Defining link frames, joint frames, and transforming between coordinate spaces.
 
 <p align="center">
-  <img src="Media/image.png" width="500"/>
+  <img src="Media/image (1).png" width="500"/>
 </p>
 
 In parallel, we studied **control systems and their mathematical tools**, including:

@@ -14,7 +14,7 @@ Key topics studied and applied include:
 - **Coordinate Frames & Transformations:** Defining link frames, joint frames, and transforming between coordinate spaces.
 
 <p align="center">
-  <img src="Media/image (1).png" width="500"/>
+  <img src="media/image (1).png" width="500"/>
 </p>
 
 In parallel, we studied **control systems and their mathematical tools**, including:
@@ -37,7 +37,7 @@ This phase involved:
 - Observing joint angle continuity and avoiding singular configurations
 
 <p align="center">
-  <img src="Media/crawlgait_sim_matlab.gif" width="500"/>
+  <img src="media/crawlgait_sim_matlab.gif" width="500"/>
 </p>
 
 MATLAB simulations allowed rapid experimentation with gait parameters and helped validate the feasibility of the chosen leg geometry and motion strategy before moving to hardware.
@@ -54,7 +54,7 @@ Key design decisions included:
   - Improve mechanical efficiency and load distribution
  
 <p align="center">
-  <img src="Media/cad_model.gif" width="500"/>
+  <img src="media/cad_model.gif" width="500"/>
 </p>
   
 - Designing a **compact and enclosed body** to house all essential components:
@@ -97,7 +97,7 @@ This involved:
 - Incremental testing and tuning to achieve stable motion
 
 <p align="center">
-  <img src="Media/crawlgait_implementation.gif" width="500"/>
+  <img src="media/crawlgait_implementation.gif" width="500"/>
 </p>
 
 After full assembly and software integration, the quadruped was able to:
